@@ -1,0 +1,27 @@
+.MuiBox-root .MuiBottomNavigation-root {
+  background-color: #4CAF50;
+}
+.MuiBox-root .MuiBottomNavigationAction-label {
+  font-size: 1rem;
+  color: #f8f8f8;
+}
+.MuiBox-root .MuiBottomNavigationAction-label.Mui-selected {
+  font-size: 1.25rem;
+  color: #020202;
+}
+
+.MuiPaper-root {
+  border: 1px solid #4CAF50;
+  margin: auto;
+}
+.MuiPaper-root .MuiCardMedia-root {
+  margin: 10px auto;
+  height: 200px;
+  width: 200px;
+}
+.MuiPaper-root .MuiTypography-root {
+  text-align: center;
+  color: #4CAF50;
+}
+
+/*# sourceMappingURL=material-ui.css.map */

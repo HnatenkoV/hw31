@@ -1,0 +1,42 @@
+//.MuiTableCell-root {
+//  border-bottom: 1px solid rgb(74, 218, 0);
+//}
+//
+//.MuiTable-root {
+//  border-bottom: 1px solid rgb(74, 218, 0);
+//    margin: auto;
+//  }
+//
+//.MuiTableContainer-root {
+//    width: 1050px;
+//    margin: auto;
+//}
+
+
+.MuiBox-root {
+  .MuiBottomNavigation-root {
+    background-color: #4CAF50;
+  }
+  .MuiBottomNavigationAction-label {
+    font-size: 1rem;
+    color: #f8f8f8;
+  }
+  .MuiBottomNavigationAction-label.Mui-selected {
+    font-size: 1.25rem;
+    color: #020202;
+  }
+}
+
+.MuiPaper-root {
+  border: 1px solid #4CAF50;
+  margin: auto;
+  .MuiCardMedia-root {
+    margin: 10px auto;
+    height: 200px;
+    width: 200px;
+  }
+  .MuiTypography-root {
+    text-align: center;
+    color: #4CAF50;
+  }
+}
